@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "324259734799",
+    "project_id": "fir-t-fruit-app",
+    "storage_bucket": "fir-t-fruit-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324259734799:android:b174037165db37ede24a7a",
+        "android_client_info": {
+          "package_name": "com.example.s_t_fruit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324259734799-478guio32ifl223flas7qajid466op2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.s_t_fruit_app",
+            "certificate_hash": "a4ae8552d170815e042983e4818c43d2f93c7649"
+          }
+        },
+        {
+          "client_id": "324259734799-7mt1pmo2agbcuco57l59e21m1svnbbv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx_CTMi2jTFac5VEGSLsmzxFL9g1YDbBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324259734799-7mt1pmo2agbcuco57l59e21m1svnbbv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
